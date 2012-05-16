@@ -1,8 +1,10 @@
 #summary How to get started with Open Reconcile
 
+There is a video tutorial for installation and use of Open Reconcile [[http://www.youtube.com/watch?v=ZHTZzF1sVUY&feature=youtu.be]]here.
+
 = Introduction =
 
-First off, the requirements for this are: Tomcat. It's been tested on Tomcat 7, but should work on previous version as well. Install it using /manager.
+First off, the requirements for this are: Tomcat. It's been tested on Tomcat 7, but should work on previous version as well.
 
 Click on the link to the /reconcile in the app listing and begin configuring the desired data.
 
